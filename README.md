@@ -740,8 +740,8 @@ if you can identify the runtime complexity of different algorithms. It's a super
         - [X] Good intro:
             [Bit Manipulation (video)](https://www.youtube.com/watch?v=7jkIUgLC29I)
         - [ ] [C Programming Tutorial 2-10: Bitwise Operators (video)](https://www.youtube.com/watch?v=d0AwjSpNXR0)
-        - [ ] [Bit Manipulation](https://en.wikipedia.org/wiki/Bit_manipulation)
-        - [ ] [Bitwise Operation](https://en.wikipedia.org/wiki/Bitwise_operation)
+        - [X] [Bit Manipulation](https://en.wikipedia.org/wiki/Bit_manipulation)
+        - [X] [Bitwise Operation](https://en.wikipedia.org/wiki/Bitwise_operation)
         - [ ] [Bithacks](https://graphics.stanford.edu/~seander/bithacks.html)
         - [ ] [The Bit Twiddler](https://bits.stephan-brumme.com/)
         - [ ] [The Bit Twiddler Interactive](https://bits.stephan-brumme.com/interactive.html)
