@@ -840,7 +840,7 @@ if you can identify the runtime complexity of different algorithms. It's a super
 
 ## Sorting
 
-- [ ] Notes:
+- [X] Notes:
     - Implement sorts & know best case/worst case, average complexity of each:
         - no bubble sort - it's terrible - O(n^2), except when n <= 16
     - [ ] Stability in sorting algorithms ("Is Quicksort stable?")
