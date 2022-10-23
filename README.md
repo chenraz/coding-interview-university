@@ -1038,7 +1038,7 @@ Graphs can be used to represent many problems in computer science, so this secti
         - [ ] factory, abstract factory
         - [ ] facade
         - [ ] observer
-        - [ ] proxy
+        - [X] proxy
         - [ ] delegate
         - [ ] command
         - [ ] state
