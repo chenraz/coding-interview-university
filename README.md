@@ -1033,7 +1033,7 @@ Graphs can be used to represent many problems in computer science, so this secti
         - [X] singleton
         - [ ] adapter
         - [X] prototype
-        - [ ] decorator
+        - [X] decorator
         - [ ] visitor
         - [ ] factory, abstract factory
         - [ ] facade
