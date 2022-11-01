@@ -1035,7 +1035,7 @@ Graphs can be used to represent many problems in computer science, so this secti
         - [X] prototype
         - [X] decorator
         - [ ] visitor
-        - [ ] factory, abstract factory
+        - [X] factory, abstract factory
         - [ ] facade
         - [X] observer
         - [X] proxy
