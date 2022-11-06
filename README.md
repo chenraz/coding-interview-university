@@ -1031,12 +1031,12 @@ Graphs can be used to represent many problems in computer science, so this secti
     - [ ] Learn these patterns:
         - [X] strategy
         - [X] singleton
-        - [ ] adapter
+        - [X] adapter
         - [X] prototype
         - [X] decorator
         - [ ] visitor
         - [X] factory, abstract factory
-        - [ ] facade
+        - [X] facade
         - [X] observer
         - [X] proxy
         - [ ] delegate
