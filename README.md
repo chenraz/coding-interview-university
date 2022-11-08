@@ -1043,8 +1043,8 @@ Graphs can be used to represent many problems in computer science, so this secti
         - [X] command
         - [ ] state
         - [ ] memento
-        - [ ] iterator
-        - [ ] composite
+        - [X] iterator
+        - [X] composite
         - [X] flyweight
     - [ ] [Series of videos (27 videos)](https://www.youtube.com/playlist?list=PLF206E906175C7E07)
     - [ ] [Book: Head First Design Patterns](https://www.amazon.com/Head-First-Design-Patterns-Freeman/dp/0596007124)
