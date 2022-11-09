@@ -1041,7 +1041,7 @@ Graphs can be used to represent many problems in computer science, so this secti
         - [X] proxy
         - [ ] delegate
         - [X] command
-        - [ ] state
+        - [X] state
         - [ ] memento
         - [X] iterator
         - [X] composite
