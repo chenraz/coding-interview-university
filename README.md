@@ -1034,7 +1034,7 @@ Graphs can be used to represent many problems in computer science, so this secti
         - [X] adapter
         - [X] prototype
         - [X] decorator
-        - [ ] visitor
+        - [X] visitor
         - [X] factory, abstract factory
         - [X] facade
         - [X] observer
@@ -1042,12 +1042,12 @@ Graphs can be used to represent many problems in computer science, so this secti
         - [ ] delegate
         - [X] command
         - [X] state
-        - [ ] memento
+        - [X] memento
         - [X] iterator
         - [X] composite
         - [X] flyweight
     - [ ] [Series of videos (27 videos)](https://www.youtube.com/playlist?list=PLF206E906175C7E07)
-    - [ ] [Book: Head First Design Patterns](https://www.amazon.com/Head-First-Design-Patterns-Freeman/dp/0596007124)
+    - [X] [Book: Head First Design Patterns](https://www.amazon.com/Head-First-Design-Patterns-Freeman/dp/0596007124)
         - I know the canonical book is "Design Patterns: Elements of Reusable Object-Oriented Software", but Head First is great for beginners to OO.
     - [Handy reference: 101 Design Patterns & Tips for Developers](https://sourcemaking.com/design-patterns-and-tips)
 
